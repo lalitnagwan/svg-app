@@ -1,0 +1,24 @@
+.nav-logo {
+  width: 55px;
+  height: 55px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+}
+
+.navbar-height {
+  height: 74px;
+  max-height: 74px;
+}
+
+.active-link a {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+  .nav-logo {
+    width: 60px;
+    height: 50px;
+    margin-left: 0px;
+  }
+}

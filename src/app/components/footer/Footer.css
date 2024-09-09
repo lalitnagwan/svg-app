@@ -1,0 +1,29 @@
+@media screen and (max-width: 460px) {
+  .footer-image {
+    width: 100px;
+    align-items: center;
+    /* margin-top: -100px; */
+  }
+}
+@media screen and (max-width: 460px) {
+  .footer-text {
+    padding: 10px;
+  }
+}
+.footer-mobile {
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+}
+
+@media screen and (max-width: 460px) {
+  .footer-mobile {
+    font-weight: normal;
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 460px) {
+  .contact-text {
+    text-align: center;
+  }
+}
